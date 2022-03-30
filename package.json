@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "pdfkit": "^0.13.0",
+    "pngjs": "^6.0.0",
+    "qrcode": "^1.5.0"
+  },
+  "name": "qrgen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
